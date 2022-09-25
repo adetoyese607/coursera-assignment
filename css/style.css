@@ -1,0 +1,38 @@
+
+hr.visible-xs{
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+.navbar-brand{
+    font-weight: 900;
+}
+.navbar-nav a{
+    font-size: 20px;
+}
+h3.text-center{
+    font-weight: 900;
+    
+}
+
+.container-fluid .menu{
+   
+  
+    margin-bottom: 25px;
+    position: relative;
+
+   
+}
+
+.meal{
+  background-color: firebrick;
+  padding: 10px;
+  min-height: 100px;
+}
+.meal h4{
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.meal p{
+    font-size: 18px;
+}
