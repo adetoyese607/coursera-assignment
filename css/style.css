@@ -11,6 +11,7 @@ hr.visible-xs{
 }
 h3.text-center{
     font-weight: 900;
+    padding-bottom: 30px;
     
 }
 
@@ -24,15 +25,17 @@ h3.text-center{
 }
 
 .meal{
-  background-color: firebrick;
+  background-color: #222222;
   padding: 10px;
   min-height: 100px;
 }
 .meal h4{
     font-size: 23px;
     font-weight: 700;
+    color: beige;
 }
 
 .meal p{
     font-size: 18px;
+    color: beige;
 }
